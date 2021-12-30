@@ -1,6 +1,6 @@
-# tsuserverCC
+# tsuserverMoS
 
-A Python-based server for Attorney Online, forked from [AttorneyOnline/tsuserver3](https://github.com/AttorneyOnline/tsuserver3)
+A Python-based server for Attorney Online, forked from [RealKaiser/tsuserverCC](https://github.com/RealKaiser/tsuserverCC)
 
 Requires Python 3.7+ and PyYAML.
 
